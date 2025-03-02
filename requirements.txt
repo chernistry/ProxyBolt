@@ -1,0 +1,5 @@
+aiohttp==3.11.13
+psutil==7.0.0
+toml==0.10.2
+tqdm==4.67.1
+uvloop==0.21.0

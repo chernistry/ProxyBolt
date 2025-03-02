@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ProxyBolt"
+version = "0.1.0"
+description = "High-performance asynchronous proxy scraper and verifier."
+authors = [
+    { name="Sasha Chernysh", email="endless@loop.in.net" }
+]
+readme = "README.md"
+license = { text="MIT License" }
+requires-python = ">=3.9"
+
+[project.urls]
+homepage = "https://github.com/chernistry/ProxyBolt"
+repository = "https://github.com/chernistry/ProxyBolt"
